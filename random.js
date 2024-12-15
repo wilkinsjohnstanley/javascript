@@ -1,3 +1,5 @@
+//built-in method of the Math object.
+
 Math.random();
 
 //Save it to a variable
