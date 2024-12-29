@@ -13,3 +13,4 @@ function showItinerary(place1, place2, place3){
 
 //Unefficient!
 //showItinerary(top3[0], top3[1], top3[2])
+showItinerary(...top3)
