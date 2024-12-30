@@ -6,6 +6,10 @@ class Car {
     turboOn(){
         console.log("brrrrrrrrrrrrrrr!beeeeerrrrrrrrr!brrrrrr!")
     }
+    brake(){
+        console.log("sckrrrrrrrrrr")
+    }
 }
 let car1 = new Car()
 car1.turboOn();
+car1.brake();
